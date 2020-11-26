@@ -30,4 +30,6 @@ regularization to limit the network’s reliance on s and preserve
 the effectiveness of interventions.
 
 Link to repo: https://github.com/jason-alouda/ConceptBottleneck
+
+
 Link to full paper: https://jason-portfolio.vercel.app/images/CS221_Project_Final.pdf
