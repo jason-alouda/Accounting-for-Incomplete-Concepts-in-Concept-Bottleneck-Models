@@ -12,8 +12,9 @@ she might want to query why the model behaved the way it did
 Alternatively, she might want to intervene on the model —
 would the model change its prediction if she declared that
 there was no narrowing?
+
 Recently, Koh et al. (2020) proposed Concept Bottleneck
-Models [4], a framework for models that support this kind
+Models, a framework for models that support this kind
 of interaction. In a Concept Bottleneck Model (CBM), a
 network first learns to predict meaningful high-level concepts
 (e.g. joint space narrowing in knee x-rays) before predicting
