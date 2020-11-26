@@ -1,5 +1,8 @@
 # Accounting for Incomplete Concepts in Concept Bottleneck Models
 
+Co-authored by Irena Gao
+
+# Intro
 Imagine a hospital is using a deep learning model to grade
 knee osteoarthritis from x-rays. Ideally, an expert radiologist
 could collaboratively interact with the model. If, at test-time,
@@ -25,3 +28,6 @@ c and unspecified latent concepts s. The final prediction
 y is based on both c and s. We also examine the use of
 regularization to limit the network’s reliance on s and preserve
 the effectiveness of interventions.
+
+Link to repo: https://github.com/jason-alouda/ConceptBottleneck
+Link to full paper: https://jason-portfolio.vercel.app/images/CS221_Project_Final.pdf
